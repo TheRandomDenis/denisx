@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+  background-image: url("/img/bg_tile.jpg");
+  background-repeat: repeat;
+  color: black;
+  font-family: Verdana;border: 1px solid #0f0f0f;
+} 
+  
+main { 
+  background: rgb(255 255 255 / 86%);
+  padding: 3px;
+  width: 62%;
+  height: 100%;
+  box-sizing: border-box;
+  position: relative;
+  margin: 5px;
+  margin-top: 155px;
+  margin-bottom: 70px;
+}
